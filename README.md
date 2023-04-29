@@ -12,6 +12,7 @@
                 <td>배상아</td>
                 <td>이지형</td>
                 <td>윤진섭</td>
+                <td>장동민</td>
             </tr>
             <tr>
                 <td>✈️GitHub</td>
@@ -20,6 +21,7 @@
                 <td><a href="https://github.com/BaeSanga">@BaeSanga</a></td>
                 <td><a href="https://github.com/Jihyeong00">@Jihyeong00</a></td>
                 <td><a href="https://github.com/alejandroYoon/jsStudy/tree/programers">@윤진섭</td>
+                <td><a href="https://github.com/hidongmin37">@장동민</a></td>
             </tr>
             <tr>
                 <td>📝Study Note</td>
@@ -28,6 +30,7 @@
                 <td><a href=""></a></td>
                 <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
                 <td><a href="https://datadog.notion.site/Javascript-Korea-e0aa0ad2c50d4df995025a07eb8ae9c3">@윤 Notion</a></td>
+                <td><a href="https://www.notion.so/hidongmin37/JANG-Dong-Min-s-Notion-01ea58d98c1e4785ac4515b33c316604">@장동민 NOTION</a></td>
             </tr>
   </table>
 
