@@ -27,7 +27,7 @@
                 <td>📝Study Note</td>
                 <td><a href="https://shrouded-neon-e05.notion.site/ab1f78955df44ea9b79d254e6ee9fe98?v=9a733b3d9adb49b69e76818ff0c90506">@Notion</a></td>
                 <td><a href=""></a></td>
-                <td><a href=""></a></td>
+                <td><a href="https://aback-handball-041.notion.site/821e92919f6f4051bbd56744da1d841d?v=a0da0b6bf4824bb1b37e04d607d1171c">@상아 Notion</a></td>
                 <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
                 <td><a href="https://datadog.notion.site/Javascript-Korea-e0aa0ad2c50d4df995025a07eb8ae9c3">@윤 Notion</a></td>
                 <td><a href="https://www.notion.so/hidongmin37/JANG-Dong-Min-s-Notion-01ea58d98c1e4785ac4515b33c316604">@장동민 NOTION</a></td>
