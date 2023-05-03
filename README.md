@@ -36,6 +36,7 @@
 
 ## :book: 문제풀이 작업 기간
 - week1 : 2023-04-25 ~ 2023-05-01
+- week2 : 2023-05-03 ~ 2023-05-08
 
 ## 📓 문서 정리
 - Link : <a href='https://docs.google.com/spreadsheets/d/1KrJBb2hGQo77Jp_2miFTVQRx6FoHshBRqOeN0p6POOM/edit#gid=643095729'>@spreadsheets</a>
