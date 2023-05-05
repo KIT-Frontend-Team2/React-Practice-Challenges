@@ -268,6 +268,7 @@ const caculate = useCallback((num)=>{
 },[item])<br><br>
 만약에 calculate 함수를 Memoization해준다면 useCallback으로 그 함수를 감싸주면됨 그래서 이 함수가 필요할 때마다 다시 생성하는게 아니라 메모리에서 가져와서 재사용 
 <br>
+
 ```
 import React, { useState, useCallback } from 'react';
 
@@ -296,6 +297,7 @@ const ParentComponent = () => {
 };
 
 export default ParentComponent;
+
 ```
 컴포넌트 내부에 있는 모든 변수들이 초기화
 
@@ -386,8 +388,59 @@ export function Movie({ title, releaseDate }) {
 export const MemoizedMovie = React.memo(Movie);
 ```
 
+## React.memo
+
+ > 리액트에서 제공하는 고차 컴포넌트이다. 
+고차 컴포넌트란 어떤 컴포넌트를 인자로 받아서 새로운 컴포넌트를 반환해주는 함수이다. 
+React.memo라는 고차함수에 어떤 컴포넌트를 넣어주면 UI나 기능적으로 똑같지만 좀 더 최적화된 컴포넌트를 반환해줌 -><br> 이렇게 최적화가 된 컴포넌트는 렌더링이 되어야 할 상황에 놓일 때마다 Prop Check를 통해서 자신이 받는 props의 변화가 있는지 없는지 확인함 -><br> props에 변화가 있으면 렌더링을 하고 props에 변화가 없다면 새로 렌더링을 하는 것이 아니라 기존에 이미 렌더링이 된 내용을 재사용함 
+```
+굳이 반복해서 많이 렌더링이 된다면 또 그 컴포넌트가 렌더링이 될 때마다 복잡한 로직을 수행한다면 컴포넌트의 성능은 떨어짐 
+
+<Student/> 
+const Student = ({name, age, address}) => {
+  return (
+    <div>
+      <h1>{name}</h1>
+      <span>{age}</span>
+      <span>{address}</span>
+    </div>
+  )
+}
+// name, age, address는 props로 전달받음 
+
+<School/> 
+const School = ({props}) => {
+  return (
+    <Student
+      name={'홍길동'}
+      age={20}
+      address={"우리집"}
+    />
+  )
+}
+```
+
+- School 컴포넌트는 Student 컴포넌트를 자식으로 갖고 있는 부모 컴포넌트
+- 리액트에서는 부모 컨포넌트가 렌더링이 되면 모든 자식 컴포넌트들도 자동적으로 렌더링됨 
+
+- name, age, address가 변경되는 경우에만 렌더링이 되게 만들면 훨씬 효율적이니 React.memo를 사용하면 됨
+
+⚠️ React.memo를 사용하기에 적합한 상황 
+1. 컴포넌트가 같은 props로 자주 렌더링 될 때 
+2. 컴포넌트가 렌더링이 될 떄마다 복잡한 로직을 처리해야할 때 
+
+🚨 React.memo는 오직 Props 변화에만 의존하는 최적화 방법이다. 
+
+<br>
+<br>
+
+------------
+
+<br>
 
 ## useEffect
+
+> 어떤 컴포넌트가 Mount 되었을 때(화면에 첫 렌더링), Update 되었을 때(다시 렌더링), Unmount 되었을 때(화면에서 사라질 때) => 특정 작업을 처리할 코드를 실행시켜주고 싶을 때 사용! 
 
 - useEffect를 이용하면 우리는 React에게 컴포넌트에게 렌더링 이후에 어떤 일을 수행하는지 알려줄 수 있다.
 
