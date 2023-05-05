@@ -1,10 +1,10 @@
 ## 📓 pair3) React-hook함수 예습, 정리
 
-// 훅함수의 장점
+훅함수의 장점
 
-// 1. useSTATE
-// 장점 : 상태가 바뀔때마다 자동으로 재랜더링이 된다는 이점이 있어 상태관리에 용이하다
-// 단점 : 만약 코드가 길어지는 상태라면 과도한 재랜더링이 단점으로 작용할 수 도 있다.
+1. useSTATE
+    *장점 : 상태가 바뀔때마다 자동으로 재랜더링이 된다는 이점이 있어 상태관리에 용이하다
+    *단점 : 만약 코드가 길어지는 상태라면 과도한 재랜더링이 단점으로 작용할 수 도 있다.
 
 import React, { useState } from 'react';
 
@@ -36,8 +36,8 @@ console.log(count)
 
 }
 
-// 2. REF는 참조를 한다는것이다.
-// 장점 : 무분별 재랜더링을 하지않고 내가 참조하고있는 상태의 값만
+ 2. REF는 참조를 한다는것이다.
+    장점 : 무분별 재랜더링을 하지않고 내가 참조하고있는 상태의 값만
 
 import React, { useRef, useState } from 'react';
 
@@ -114,10 +114,10 @@ console.log('😀');
 return number
 }
 
-// 3. useMEMO
-// 장점 : 같은 코드를 반복을 하지않고, 메모이제이션 함으로써 계산하지않고 같은 값을 그대로 내보내기에
-// 효율성을 높인다.
-// 단점 : 메모리 사용량이 많으면, 메모리 소모량이 많아진다.
+ 3. useMEMO
+   장점 : 같은 코드를 반복을 하지않고, 메모이제이션 함으로써 계산하지않고 같은 값을 그대로 내보내기에
+           효율성을 높인다.
+   단점 : 메모리 사용량이 많으면, 메모리 소모량이 많아진다.
 
 import React, { useMemo, useState } from
 'react';
@@ -161,8 +161,9 @@ console.log('😀');
 return number
 }
 
-// 4. useCallback
-// 장점 : 재호출을 함으로인해 복잡한 계산시간을 줄일수 있다.
+
+4. useCallback
+ 장점 : 재호출을 함으로인해 복잡한 계산시간을 줄일수 있다.
 
 import React, { useState, useCallback } from "react";
 import Student from "./callback/Student";
@@ -211,9 +212,9 @@ return (
 
 export default React.memo(Student);
 
-// 5. useEffect
-// 장점 : 변경 시키고자 하는 state를 조건을 줄수있음으로 인해 상태관리에 용이하다
-// 단점 : 단점은 없는것같습니다.
+ 5. useEffect
+  장점 : 변경 시키고자 하는 state를 조건을 줄수있음으로 인해 상태관리에 용이하다
+  단점 : 단점은 없는것같습니다.
 
 import React, {useEffect, useState } from "react";
 
