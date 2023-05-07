@@ -20,7 +20,7 @@
                 <td>✈️GitHub</td>
                 <td><a href="https://github.com/dbs271">@dbs271</a></td>
                 <td><a href="https://github.com/xxnewnewxx">@Daeun</a></td>
-                <td><a href="https://github.com/BaeSanga">@</a></td>
+                <td><a href="https://github.com/BaeSanga">@배상아</a></td>
                 <td><a href="https://github.com/Jihyeong00">@이지형</a></td>
                 <td><a href="https://github.com/alejandroYoon/jsStudy/tree/programers">@윤진섭</td>
                 <td><a href="https://github.com/hidongmin37">@장동민</a></td>
