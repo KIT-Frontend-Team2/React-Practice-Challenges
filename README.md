@@ -11,7 +11,6 @@
                 <td>문다은</td>
                 <td>배상아</td>
                 <td>이지형</td>
-                <td>윤진섭</td>
                 <td>장동민</td>
                 <td>이유경</td>
                 <td>정지현</td>
@@ -22,7 +21,6 @@
                 <td><a href="https://github.com/xxnewnewxx">@Daeun</a></td>
                 <td><a href="https://github.com/BaeSanga">@배상아</a></td>
                 <td><a href="https://github.com/Jihyeong00">@이지형</a></td>
-                <td><a href="https://github.com/alejandroYoon">@윤진섭</td>
                 <td><a href="https://github.com/hidongmin37">@장동민</a></td>
                 <td><a href="https://github.com/uniend">@이유경</a></td>
                 <td><a href="https://github.com/jeje0311">@정지현</a></td>
@@ -33,16 +31,22 @@
                 <td><a href="https://maze-wallflower-d59.notion.site/8b45ef27373a42558ab3c79aa1f39fce?v=5b3d1c6be3354eca805a135aadb9905c">@Notion</a></td>
                 <td><a href="https://aback-handball-041.notion.site/821e92919f6f4051bbd56744da1d841d?v=a0da0b6bf4824bb1b37e04d607d1171c">@Notion</a></td>
                 <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
-                <td><a href="https://datadog.notion.site/Javascript-Korea-e0aa0ad2c50d4df995025a07eb8ae9c3">@Notion</a></td>
                 <td><a href="https://www.notion.so/hidongmin37/JANG-Dong-Min-s-Notion-01ea58d98c1e4785ac4515b33c316604">@Notion</a></td>
                 <td><a href="https://www.notion.so/general-66ea43f29ab049edb8b12412fc161dab">@Notion</a></td>
                 <td><a></a></td>
             </tr>
   </table>
+  
+## 😌 금주의 페어
+- pair1 : 이지형, 정지현
+- pair2 : 윤국현, 장동민
+- pair3 : 문다은, 이유경, 배상아
 
 ## :book: 문제풀이 작업 기간
 - week7 : 2023-04-25 ~ 2023-05-01
 - week8 : 2023-05-03 ~ 2023-05-08
+- week9 : 2023-05-11 ~ 2023-05-15
+- week10 : 2023-05-17 ~  2023-05-22
 
 ## 📓 문서 정리
 - Link : <a href='https://docs.google.com/spreadsheets/d/1KrJBb2hGQo77Jp_2miFTVQRx6FoHshBRqOeN0p6POOM/edit#gid=643095729'>@spreadsheets</a>
