@@ -47,7 +47,7 @@
 - week10 : 2023-05-17 ~  2023-05-22
 
 ## 📓 문서 정리
-- Link : <a href='https://docs.google.com/spreadsheets/d/1KrJBb2hGQo77Jp_2miFTVQRx6FoHshBRqOeN0p6POOM/edit#gid=643095729'>@spreadsheets</a>
+- Link : <a href='https://koreait-front-team2.notion.site/2-8ca45e94b2b74ae9b006cc931f0f7e06'>@Notion</a>
 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&section=footer)
