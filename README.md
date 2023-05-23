@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=welcome!&fontAlign=80&fontAlignY=40&color=gradient&section=header)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KIT-Frontend-Team2&fontAlign=53&fontAlignY=40&color=gradient&section=header)
 
 
 # 🐳React-Practice-Challenges
@@ -36,15 +36,15 @@
   </table>
   
 ## 😌 금주의 페어
-- pair1 : 이지형, 정지현
-- pair2 : 윤국현, 장동민
-- pair3 : 문다은, 이유경, 배상아
+- pair1 : 이지형, 윤국현, 배상아
+- pair2 : 장동민, 정지현, 이유경
 
 ## :book: 문제풀이 작업 기간
 - week7 : 2023-04-25 ~ 2023-05-01
 - week8 : 2023-05-03 ~ 2023-05-08
 - week9 : 2023-05-11 ~ 2023-05-15
 - week10 : 2023-05-17 ~  2023-05-22
+- week11 : 2023-05-23 ~  2023-05-31
 
 ## 📓 문서 정리
 - Link : <a href='https://koreait-front-team2.notion.site/2-8ca45e94b2b74ae9b006cc931f0f7e06'>@Notion</a>
