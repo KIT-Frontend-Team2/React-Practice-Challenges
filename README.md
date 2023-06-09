@@ -9,7 +9,6 @@
             <tr>
                 <td>이름</td>
                 <td>윤국현</td>
-                <td>배상아</td>
                 <td>이지형</td>
                 <td>장동민</td>
                 <td>이유경</td>
@@ -18,7 +17,6 @@
             <tr>
                 <td>✈️Git</td>
                 <td><a href="https://github.com/dbs271">@dbs271</a></td>
-                <td><a href="https://github.com/BaeSanga">@배상아</a></td>
                 <td><a href="https://github.com/Jihyeong00">@이지형</a></td>
                 <td><a href="https://github.com/hidongmin37">@장동민</a></td>
                 <td><a href="https://github.com/uniend">@이유경</a></td>
@@ -27,7 +25,6 @@
             <tr>
                 <td>📝Note</td>
                 <td><a href="https://shrouded-neon-e05.notion.site/ab1f78955df44ea9b79d254e6ee9fe98?v=9a733b3d9adb49b69e76818ff0c90506">@Notion</a></td>
-                <td><a href="https://aback-handball-041.notion.site/821e92919f6f4051bbd56744da1d841d?v=a0da0b6bf4824bb1b37e04d607d1171c">@Notion</a></td>
                 <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
                 <td><a href="https://www.notion.so/hidongmin37/JANG-Dong-Min-s-Notion-01ea58d98c1e4785ac4515b33c316604">@Notion</a></td>
                 <td><a href="https://www.notion.so/general-66ea43f29ab049edb8b12412fc161dab">@Notion</a></td>
@@ -37,7 +34,7 @@
   
 ## 😌 금주의 페어
 - pair1 : 이지형, 윤국현, 정지현
-- pair2 : 장동민, 배상아, 이유경
+- pair2 : 장동민, 이유경
 
 ## :book: 문제풀이 작업 기간
 - week7 : 2023-04-25 ~ 2023-05-01
