@@ -12,7 +12,8 @@
                 <td>이지형</td>
                 <td>장동민</td>
                 <td>이유경</td>
-                <td>정지현</td>
+                <td>정지현</td> 
+                <td>정자연</td>
             </tr>
             <tr>
                 <td>✈️Git</td>
@@ -21,6 +22,7 @@
                 <td><a href="https://github.com/hidongmin37">@장동민</a></td>
                 <td><a href="https://github.com/uniend">@이유경</a></td>
                 <td><a href="https://github.com/jeje0311">@정지현</a></td>
+                <td><a href="https://github.com/naturej">@정자연</a></td>
             </tr>
             <tr>
                 <td>📝Note</td>
@@ -29,21 +31,23 @@
                 <td><a href="https://www.notion.so/hidongmin37/JANG-Dong-Min-s-Notion-01ea58d98c1e4785ac4515b33c316604">@Notion</a></td>
                 <td><a href="https://www.notion.so/general-66ea43f29ab049edb8b12412fc161dab">@Notion</a></td>
                 <td><a></a></td>
+                <td><a></a></td>
             </tr>
   </table>
   
 ## 😌 금주의 페어
-- pair1 : 이지형, 윤국현, 정지현
-- pair2 : 장동민, 이유경
+- pair1 : 이지형, 정자연
+- pair2 : 윤국현, 이유경, 정지현
 
 ## :book: 문제풀이 작업 기간
 - week7 : 2023-04-25 ~ 2023-05-01
 - week8 : 2023-05-03 ~ 2023-05-08
 - week9 : 2023-05-11 ~ 2023-05-15
-- week10 : 2023-05-17 ~  2023-05-22
-- week11 : 2023-05-23 ~  2023-05-31
-- week12 : 2023-06-01 ~  2023-06-04
-- week13 : 2023-06-05 ~  2023-06-12
+- week10 : 2023-05-17 ~ 2023-05-22
+- week11 : 2023-05-23 ~ 2023-05-31
+- week12 : 2023-06-01 ~ 2023-06-04
+- week13 : 2023-06-05 ~ 2023-06-12
+- week14 : 2023-06-12 ~ 
 
 ## 📓 문서 정리
 - Link : <a href='https://koreait-front-team2.notion.site/2-8ca45e94b2b74ae9b006cc931f0f7e06'>@Notion</a>
