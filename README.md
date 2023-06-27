@@ -11,7 +11,6 @@
                 <td>윤국현</td>
                 <td>이지형</td>
                 <td>이유경</td>
-                <td>정지현</td> 
                 <td>정자연</td>
             </tr>
             <tr>
@@ -19,7 +18,6 @@
                 <td><a href="https://github.com/dbs271">@윤국현</a></td>
                 <td><a href="https://github.com/Jihyeong00">@이지형</a></td>
                 <td><a href="https://github.com/uniend">@이유경</a></td>
-                <td><a href="https://github.com/jeje0311">@정지현</a></td>
                 <td><a href="https://github.com/naturej">@정자연</a></td>
             </tr>
             <tr>
@@ -33,8 +31,7 @@
   </table>
   
 ## 😌 금주의 페어
-- pair1 : 이지형, 정자연
-- pair2 : 윤국현, 이유경, 정지현
+- pair1 : 이지형, 정자연 윤국현, 이유경
 
 ## :book: 문제풀이 작업 기간
 - week7 : 2023-04-25 ~ 2023-05-01
@@ -44,7 +41,9 @@
 - week11 : 2023-05-23 ~ 2023-05-31
 - week12 : 2023-06-01 ~ 2023-06-04
 - week13 : 2023-06-05 ~ 2023-06-12
-- week14 : 2023-06-12 ~ 
+- week14 : 2023-06-12 ~ 2023-06-18
+- week15 : 2023-06-19 ~ 2023-06-26
+- Final-week: 2023-06-27 ~ 2023-07-02
 
 ## 📓 문서 정리
 - Link : <a href='https://koreait-front-team2.notion.site/2-8ca45e94b2b74ae9b006cc931f0f7e06'>@Notion</a>
