@@ -26,7 +26,6 @@
                 <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
                 <td><a href="https://www.notion.so/general-66ea43f29ab049edb8b12412fc161dab">@Notion</a></td>
                 <td><a></a></td>
-                <td><a></a></td>
             </tr>
   </table>
   
@@ -48,5 +47,3 @@
 ## 📓 문서 정리
 - Link : <a href='https://koreait-front-team2.notion.site/2-8ca45e94b2b74ae9b006cc931f0f7e06'>@Notion</a>
 
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&section=footer)
